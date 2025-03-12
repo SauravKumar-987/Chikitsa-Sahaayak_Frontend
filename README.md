@@ -1,30 +1,30 @@
-# Chikitsa Salah Readme
+# Chikitsa Saahayak Readme
 Chikitsa Salah is an integrated healthcare platform that offers a range of essential services, such as appointment booking, advisory services, and chatbot support.
 
 ## Features
 Appointment Booking
-Chikitsa Salah simplifies the process of finding and booking appointments with qualified doctors and specialists. You can search for doctors based on location, specialty, and availability. Once you've selected a doctor, you can book an appointment directly through the app.
+Chikitsa Saahayak simplifies the process of finding and booking appointments with qualified doctors and specialists. You can search for doctors based on location, specialty, and availability. Once you've selected a doctor, you can book an appointment directly through the app.
 
 ## Advisory
-Chikitsa Salah provides various advisory services, including health tips, articles, and videos. Additionally, you can receive personalized advice from doctors and other healthcare professionals through the app.
+Chikitsa Saahayak provides various advisory services, including health tips, articles, and videos. Additionally, you can receive personalized advice from doctors and other healthcare professionals through the app.
 
 ## Chatbot Support
-Chikitsa Salah's chatbot offers 24/7 support for various health concerns. The chatbot can answer your questions, offer advice, and facilitate connections with a doctor if necessary.
+Chikitsa Saahayak's chatbot offers 24/7 support for various health concerns. The chatbot can answer your questions, offer advice, and facilitate connections with a doctor if necessary.
 
 ## Benefits
-Chikitsa Salah offers several benefits to users:
+Chikitsa Saahayak offers several benefits to users:
 
 ### Convenience
-Chikitsa Salah serves as a single platform for all your healthcare needs. You can book appointments, receive advice, and chat with a doctor, all in one place.
+Chikitsa Saahayak serves as a single platform for all your healthcare needs. You can book appointments, receive advice, and chat with a doctor, all in one place.
 
 ### Affordability
-Chikitsa Salah's services are designed to be affordable and accessible to everyone.
+Chikitsa Saahayak's services are designed to be affordable and accessible to everyone.
 
 ### Quality
- Chikitsa Salah collaborates with qualified doctors and healthcare professionals to deliver high-quality services.
+ Chikitsa Saahayak collaborates with qualified doctors and healthcare professionals to deliver high-quality services.
 
 ## Conclusion
-Chikitsa Salah is a comprehensive healthcare platform that offers a range of essential services, including appointment booking, advisory services, and chatbot support. It prioritizes convenience, affordability, and high-quality services. Download the Chikitsa Salah app today and take control of your health!
+Chikitsa Saahayak is a comprehensive healthcare platform that offers a range of essential services, including appointment booking, advisory services, and chatbot support. It prioritizes convenience, affordability, and high-quality services. Download the Chikitsa Salah app today and take control of your health!
 
 # Declaration of Authorship
 The Application is a Next JS 14 application which uses the following third party libraries and services:
@@ -33,10 +33,9 @@ The Application is a Next JS 14 application which uses the following third party
 - [Google-Palm-2] API for generative AI embedded within Chatbot
 
 The Application is developed by the following team members(Team `Try N' Test`):
-- `Dipesh Ranjan`
-- `Isheta Aggarwal`
+- `Saurav Kumar`
+- `Anirudh`
 - `Rajat Srivastava`
-- `Kislay Gupta`
 
 ### Note
 Some Components might seem similar to the ones in the previous projects, but they are not even remotely same. e.g. - contact section (previous project's contact uses zod with tailwind, while this is plain html form)
